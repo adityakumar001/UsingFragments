@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UsingFragments</string>
+    <string name="fragment_selection">Fragment :</string>
+</resources>
